@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/andrej/Documents/Abelium/ACE/ace-mobile-app/node_modules/react-native-link-preview/android/build/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/andrej/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2cebb11453bf7c9dc0f959539890077b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/andrej/Documents/Abelium/ACE/ace-mobile-app/node_modules/react-native-link-preview/android/build/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/andrej/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2cebb11453bf7c9dc0f959539890077b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/andrej/Documents/Abelium/ACE/ace-mobile-app/node_modules/react-native-link-preview/android/build/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/andrej/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2cebb11453bf7c9dc0f959539890077b/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/andrej/Documents/Abelium/ACE/ace-mobile-app/node_modules/react-native-link-preview/android/build/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/Users/andrej/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/2cebb11453bf7c9dc0f959539890077b/res/layout-v21/notification_action.xml"
+    }
+]
